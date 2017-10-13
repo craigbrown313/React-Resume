@@ -1,18 +1,22 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Footer from  './Footer.js'
+import Header from './Header.js'
+import WorkExperience from './WorkExperience.js'
+import Projects from './Projects.js'
+import Education from './Education.js'
+
+
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">You can do this</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <Header></Header>
+        <WorkExperience></WorkExperience>
+        <Projects></Projects>
+        <Education></Education>
+        <Footer></Footer>
       </div>
     );
   }
