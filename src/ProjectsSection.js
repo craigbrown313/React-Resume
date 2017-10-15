@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import projectImage from './frogger.png';
-import projectImage1 from './responsive.png'
+import projectImage1 from './responsive1.png'
 class ProjectsSection extends Component {
   render() {
     return (
