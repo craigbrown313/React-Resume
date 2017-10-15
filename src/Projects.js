@@ -17,7 +17,7 @@ class Projects extends Component {
             <ProjectsSection
               course1 ="Portfolio"
               date="April 2016 to August 2017"
-              desc="Created an online portfolio using HTML5, CSS3, and Bootstrap as an project for responsive web design."
+              desc="Created an online portfolio using HTML5, CSS3, and Bootstrap as an project forb a responsive web design portfolio."
             />
               <div><img src={projectImage1}/></div>
       </div>
