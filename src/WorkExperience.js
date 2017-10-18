@@ -16,7 +16,7 @@ class WorkExperience extends Component {
           location="Cincinnati, Ohio, United States"
           company="Edis Group - Executive IT Recruiter"
           date="April 2016 to August 2017"
-          desc="Full life cycle recruiting for all Information Technology and specialized related positions Utilized best practices to source, and meet candidates. Considered responsible by means of set up selecting measurements: time to fill, cost per contract, nature of contract, client administration amid contract with trough and candidate. In charge of counseling with Managers, AVPs, VPs, CIO and proper Human Resource Managers all through the enlisting procedure, giving point-by-point evaluations of all hopefuls sourced. Complete uncommon selecting related undertakings for the HR and IT Departments as required."
+          desc="Full life cycle recruiting for all Information Technology and specialized related positions. Utilized best practices to source, and meet candidates. Considered responsible by means of set up selecting measurements: time to fill, cost per contract, nature of contract, client administration amid contract with trough and candidate. In charge of counseling with Managers, AVPs, VPs, CIO and proper Human Resource Managers all through the enlisting procedure, giving point-by-point evaluations of all hopefuls sourced. Complete uncommon selecting related undertakings for the HR and IT Departments as required."
         />
       </div>
     );
